@@ -6,6 +6,27 @@ A Simple Web Implementation Of The Google Maps API For React. (No API Key Requir
 
 Make sure you have npm and node installed. Run `npm install SimpleReactApp` to install the package.
 
+# Usage
+
+After installing the package, you can use it by importing it into your React app.
+
+```js
+import SimpleReactMap from 'SimpleReactMap';
+```
+Then use the component in your React app.
+
+```jsx
+function Component() {
+  return (
+    <SimpleReactMap 
+        zoom={14} 
+        center={{lat: -34.397, lng: 150.644}}
+        className="map"
+    />
+  );
+}
+```
+
 # Props
 
 ## center: Array [lat, lng] (Default: null, Ex: [-37, -122.8])
