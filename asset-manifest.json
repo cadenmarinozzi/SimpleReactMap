@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimpleReactMap/static/css/main.9df576bb.css",
+    "main.js": "/SimpleReactMap/static/js/main.ef0d33e4.js",
+    "index.html": "/SimpleReactMap/index.html",
+    "main.9df576bb.css.map": "/SimpleReactMap/static/css/main.9df576bb.css.map",
+    "main.ef0d33e4.js.map": "/SimpleReactMap/static/js/main.ef0d33e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df576bb.css",
+    "static/js/main.ef0d33e4.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9df576bb.css","mappings":"AAAA,KASE,UAAW,CALX,QAAS,CAHT,iBAAkB,CAElB,OAAQ,CAGR,sCAAgC,CAAhC,8BAAgC,CAEhC,SAEF","sources":["App.css"],"sourcesContent":[".map {\n  position: absolute;\n\n  top: 50%;\n  left: 50%;\n\n  transform: translate(-50%, -50%);\n\n  width: 60%;\n  height: 60%;\n}"],"names":[],"sourceRoot":""}
