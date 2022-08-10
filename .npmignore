@@ -3,7 +3,7 @@
 **/node_modules
 **/public
 **/.eslintignore
-**/.eslintrc.js
+**/.eslintrc.json
 **/.gitignore
 **/.prettierrc.json
 **/.prettierignore

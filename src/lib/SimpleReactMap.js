@@ -20,7 +20,7 @@ function SimpleReactMap({ center, query = "", zoom = 12, ...rest }) {
 }
 
 SimpleReactMap.propTypes = {
-	center: PropTypes.arrayOf(PropTypes.number).length(2),
+	center: PropTypes.array,
 	query: PropTypes.string,
 	zoom: PropTypes.number,
 };
