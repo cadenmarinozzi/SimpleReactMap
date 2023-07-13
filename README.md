@@ -20,7 +20,7 @@ function Component() {
   return (
     <SimpleReactMap 
         zoom={14} 
-        center={{lat: -34.397, lng: 150.644}}
+        center={[ -34.397, 150.644 ]}
         className="map"
     />
   );
